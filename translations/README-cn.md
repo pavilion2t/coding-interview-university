@@ -173,7 +173,7 @@
     - [x] [Google 检索的原理 —— Matt Cutts（视频）](https://www.youtube.com/watch?v=BNHR6IQJGZs)
     - [x] [Google 是如何改善其检索算法（视频）](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
 - [ ] 系列文章：
-    - [ ] [Google 检索是如何处理移动设备](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
+    - [x] [Google 检索是如何处理移动设备](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
     - [ ] [Google 为了寻找大众需求的秘密研究](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
     - [ ] [Google 检索将成为你的下一个大脑](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
     - [ ] [Demis Hassabis 的心灵直白](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
@@ -196,8 +196,6 @@
 - [ ] 文章：
     - [ ] [三步成为 Googler](http://www.google.com/about/careers/lifeatgoogle/hiringprocess/)
     - [ ] [得到在 Google 的工作机会](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
-        - 所有他所提及的事情都列在了下面
-    - [ ] _（早已过期）_ [如何得到 Google 的一份工作，面试题，应聘过程](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
     - [ ] [手机设备屏幕的问题](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
 - [ ] 附加的（虽然 Google 不建议，但我还是添加在此）：
